@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class spawnPoint : MonoBehaviour
 {
-    public GameObject Prefabs;
+    [SerializeField]
+    public string[] Cap_spawnPoint = new string[0];
     // Start is called before the first frame update
     void Start()
     {
-        Instantiate(Prefabs, new Vector3(0, 0, 0), Quaternion.identity);
+        
 
     }
 

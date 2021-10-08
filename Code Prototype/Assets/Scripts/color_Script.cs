@@ -10,6 +10,7 @@ public class color_Script : MonoBehaviour
     void Start()
     {
         GetComponent<Renderer>().material.color = Random.ColorHSV(01, 1f, 1f, 1f, 0.5f, 1f);
+        
     }
 
     // Update is called once per frame
