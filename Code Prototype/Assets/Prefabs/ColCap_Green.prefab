@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3194951042560857419}
   m_Layer: 0
   m_Name: ColCap_Green
-  m_TagString: Untagged
+  m_TagString: Cap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

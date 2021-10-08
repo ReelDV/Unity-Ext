@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3290222595363955750}
   m_Layer: 0
   m_Name: ColCap_Red
-  m_TagString: Untagged
+  m_TagString: Cap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
