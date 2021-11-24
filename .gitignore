@@ -35,3 +35,208 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Code Prototype/Logs/AssetImportWorker0.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe4.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe5.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe6.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe7.log
+Code_Prototype/
+Interaction Prototype/.vsconfig
+Interaction Prototype/Assets/Materials.meta
+Interaction Prototype/Assets/Materials/Skybox_Mat.mat
+Interaction Prototype/Assets/Materials/Skybox_Mat.mat.meta
+Interaction Prototype/Assets/Presets.meta
+Interaction Prototype/Assets/Presets/AudioCompressedInMemory.preset
+Interaction Prototype/Assets/Presets/AudioCompressedInMemory.preset.meta
+Interaction Prototype/Assets/Presets/AudioStreaming.preset
+Interaction Prototype/Assets/Presets/AudioStreaming.preset.meta
+Interaction Prototype/Assets/Presets/Defaults.meta
+Interaction Prototype/Assets/Presets/Defaults/AlbedoTexture_Default.preset
+Interaction Prototype/Assets/Presets/Defaults/AlbedoTexture_Default.preset.meta
+Interaction Prototype/Assets/Presets/Defaults/AudioDecompressOnLoad.preset
+Interaction Prototype/Assets/Presets/Defaults/AudioDecompressOnLoad.preset.meta
+Interaction Prototype/Assets/Presets/Defaults/DirectionalLight_Default.preset
+Interaction Prototype/Assets/Presets/Defaults/DirectionalLight_Default.preset.meta
+Interaction Prototype/Assets/Presets/NormalTexture.preset
+Interaction Prototype/Assets/Presets/NormalTexture.preset.meta
+Interaction Prototype/Assets/Presets/UtilityTexture.preset
+Interaction Prototype/Assets/Presets/UtilityTexture.preset.meta
+Interaction Prototype/Assets/Readme.asset
+Interaction Prototype/Assets/Readme.asset.meta
+Interaction Prototype/Assets/Samples.meta
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit.meta
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6.meta
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions.meta
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/.sample.json
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Continuous Move.preset
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Continuous Move.preset.meta
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Continuous Turn.preset
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Continuous Turn.preset.meta
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Input Actions.inputactions
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Input Actions.inputactions.meta
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Left Controller.preset
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Left Controller.preset.meta
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Right Controller.preset
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Right Controller.preset.meta
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Snap Turn.preset
+Interaction Prototype/Assets/Samples/XR Interaction Toolkit/1.0.0-pre.6/Default Input Actions/XRI Default Snap Turn.preset.meta
+Interaction Prototype/Assets/Scenes.meta
+Interaction Prototype/Assets/Scenes/Interaction Prototype.unity
+Interaction Prototype/Assets/Scenes/Interaction Prototype.unity.meta
+Interaction Prototype/Assets/Scenes/SampleScene.unity
+Interaction Prototype/Assets/Scenes/SampleScene.unity.meta
+Interaction Prototype/Assets/Scenes/SampleSceneLightingSettings.lighting
+Interaction Prototype/Assets/Scenes/SampleSceneLightingSettings.lighting.meta
+Interaction Prototype/Assets/Scripts.meta
+Interaction Prototype/Assets/Scripts/SimpleCameraController.cs
+Interaction Prototype/Assets/Scripts/SimpleCameraController.cs.meta
+Interaction Prototype/Assets/Settings.meta
+Interaction Prototype/Assets/Settings/ForwardRenderer.asset
+Interaction Prototype/Assets/Settings/ForwardRenderer.asset.meta
+Interaction Prototype/Assets/Settings/SampleSceneProfile.asset
+Interaction Prototype/Assets/Settings/SampleSceneProfile.asset.meta
+Interaction Prototype/Assets/Settings/UniversalRP-HighQuality.asset
+Interaction Prototype/Assets/Settings/UniversalRP-HighQuality.asset.meta
+Interaction Prototype/Assets/Settings/UniversalRP-LowQuality.asset
+Interaction Prototype/Assets/Settings/UniversalRP-LowQuality.asset.meta
+Interaction Prototype/Assets/Settings/UniversalRP-MediumQuality.asset
+Interaction Prototype/Assets/Settings/UniversalRP-MediumQuality.asset.meta
+Interaction Prototype/Assets/VR Hands.meta
+Interaction Prototype/Assets/VR Hands/Animations.meta
+Interaction Prototype/Assets/VR Hands/Animations/Controllers.meta
+Interaction Prototype/Assets/VR Hands/Animations/Controllers/LeftHandController.controller
+Interaction Prototype/Assets/VR Hands/Animations/Controllers/LeftHandController.controller.meta
+Interaction Prototype/Assets/VR Hands/Animations/Controllers/RightHandController.controller
+Interaction Prototype/Assets/VR Hands/Animations/Controllers/RightHandController.controller.meta
+Interaction Prototype/Assets/VR Hands/Animations/LeftHandGrip.anim
+Interaction Prototype/Assets/VR Hands/Animations/LeftHandGrip.anim.meta
+Interaction Prototype/Assets/VR Hands/Animations/LeftHandIdle.anim
+Interaction Prototype/Assets/VR Hands/Animations/LeftHandIdle.anim.meta
+Interaction Prototype/Assets/VR Hands/Animations/LeftHandPinch.anim
+Interaction Prototype/Assets/VR Hands/Animations/LeftHandPinch.anim.meta
+Interaction Prototype/Assets/VR Hands/Animations/RightHandGrip.anim
+Interaction Prototype/Assets/VR Hands/Animations/RightHandGrip.anim.meta
+Interaction Prototype/Assets/VR Hands/Animations/RightHandIdle.anim
+Interaction Prototype/Assets/VR Hands/Animations/RightHandIdle.anim.meta
+Interaction Prototype/Assets/VR Hands/Animations/RightHandPinch.anim
+Interaction Prototype/Assets/VR Hands/Animations/RightHandPinch.anim.meta
+Interaction Prototype/Assets/VR Hands/Materials.meta
+Interaction Prototype/Assets/VR Hands/Materials/DefaultHands.mat
+Interaction Prototype/Assets/VR Hands/Materials/DefaultHands.mat.meta
+Interaction Prototype/Assets/VR Hands/Models.meta
+Interaction Prototype/Assets/VR Hands/Models/LeftHand.fbx
+Interaction Prototype/Assets/VR Hands/Models/LeftHand.fbx.meta
+Interaction Prototype/Assets/VR Hands/Models/RightHand.fbx
+Interaction Prototype/Assets/VR Hands/Models/RightHand.fbx.meta
+Interaction Prototype/Assets/VR Hands/Textures.meta
+Interaction Prototype/Assets/VR Hands/Textures/Hand_HandsDefault_AlbedoTransparency.png
+Interaction Prototype/Assets/VR Hands/Textures/Hand_HandsDefault_AlbedoTransparency.png.meta
+Interaction Prototype/Assets/VR Hands/Textures/Hand_HandsDefault_AO.png
+Interaction Prototype/Assets/VR Hands/Textures/Hand_HandsDefault_AO.png.meta
+Interaction Prototype/Assets/VR Hands/Textures/Hand_HandsDefault_MetallicSmoothness.png
+Interaction Prototype/Assets/VR Hands/Textures/Hand_HandsDefault_MetallicSmoothness.png.meta
+Interaction Prototype/Assets/VR Hands/Textures/Hand_HandsDefault_Normal.png
+Interaction Prototype/Assets/VR Hands/Textures/Hand_HandsDefault_Normal.png.meta
+Interaction Prototype/Assets/VRHands.meta
+Interaction Prototype/Assets/VRHands/Animations.meta
+Interaction Prototype/Assets/VRHands/Animations/Controllers.meta
+Interaction Prototype/Assets/VRHands/Animations/Controllers/LeftHandController.controller
+Interaction Prototype/Assets/VRHands/Animations/Controllers/LeftHandController.controller.meta
+Interaction Prototype/Assets/VRHands/Animations/Controllers/RightHandController.controller
+Interaction Prototype/Assets/VRHands/Animations/Controllers/RightHandController.controller.meta
+Interaction Prototype/Assets/VRHands/Animations/LeftHandGrip.anim
+Interaction Prototype/Assets/VRHands/Animations/LeftHandGrip.anim.meta
+Interaction Prototype/Assets/VRHands/Animations/LeftHandIdle.anim
+Interaction Prototype/Assets/VRHands/Animations/LeftHandIdle.anim.meta
+Interaction Prototype/Assets/VRHands/Animations/LeftHandPinch.anim
+Interaction Prototype/Assets/VRHands/Animations/LeftHandPinch.anim.meta
+Interaction Prototype/Assets/VRHands/Animations/RightHandGrip.anim
+Interaction Prototype/Assets/VRHands/Animations/RightHandGrip.anim.meta
+Interaction Prototype/Assets/VRHands/Animations/RightHandIdle.anim
+Interaction Prototype/Assets/VRHands/Animations/RightHandIdle.anim.meta
+Interaction Prototype/Assets/VRHands/Animations/RightHandPinch.anim
+Interaction Prototype/Assets/VRHands/Animations/RightHandPinch.anim.meta
+Interaction Prototype/Assets/VRHands/Materials.meta
+Interaction Prototype/Assets/VRHands/Materials/DefaultHands.mat
+Interaction Prototype/Assets/VRHands/Materials/DefaultHands.mat.meta
+Interaction Prototype/Assets/VRHands/Models.meta
+Interaction Prototype/Assets/VRHands/Models/LeftHand.fbx
+Interaction Prototype/Assets/VRHands/Models/LeftHand.fbx.meta
+Interaction Prototype/Assets/VRHands/Models/RightHand.fbx
+Interaction Prototype/Assets/VRHands/Models/RightHand.fbx.meta
+Interaction Prototype/Assets/VRHands/Prefabs.meta
+Interaction Prototype/Assets/VRHands/Prefabs/LeftHand.prefab
+Interaction Prototype/Assets/VRHands/Prefabs/LeftHand.prefab.meta
+Interaction Prototype/Assets/VRHands/Prefabs/RightHand.prefab
+Interaction Prototype/Assets/VRHands/Prefabs/RightHand.prefab.meta
+Interaction Prototype/Assets/VRHands/Textures.meta
+Interaction Prototype/Assets/VRHands/Textures/Hand_HandsDefault_AlbedoTransparency.png
+Interaction Prototype/Assets/VRHands/Textures/Hand_HandsDefault_AlbedoTransparency.png.meta
+Interaction Prototype/Assets/VRHands/Textures/Hand_HandsDefault_AO.png
+Interaction Prototype/Assets/VRHands/Textures/Hand_HandsDefault_AO.png.meta
+Interaction Prototype/Assets/VRHands/Textures/Hand_HandsDefault_MetallicSmoothness.png
+Interaction Prototype/Assets/VRHands/Textures/Hand_HandsDefault_MetallicSmoothness.png.meta
+Interaction Prototype/Assets/VRHands/Textures/Hand_HandsDefault_Normal.png
+Interaction Prototype/Assets/VRHands/Textures/Hand_HandsDefault_Normal.png.meta
+Interaction Prototype/Assets/XR.meta
+Interaction Prototype/Assets/XR/Loaders.meta
+Interaction Prototype/Assets/XR/Loaders/Oculus Loader.asset
+Interaction Prototype/Assets/XR/Loaders/Oculus Loader.asset.meta
+Interaction Prototype/Assets/XR/Settings.meta
+Interaction Prototype/Assets/XR/Settings/Oculus Settings.asset
+Interaction Prototype/Assets/XR/Settings/Oculus Settings.asset.meta
+Interaction Prototype/Assets/XR/XRGeneralSettings.asset
+Interaction Prototype/Assets/XR/XRGeneralSettings.asset.meta
+Interaction Prototype/Logs/ApiUpdaterCheck.txt
+Interaction Prototype/Logs/Packages-Update.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe10.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe11.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe4.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe5.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe6.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe7.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe8.log
+Interaction Prototype/Logs/shadercompiler-UnityShaderCompiler.exe9.log
+Interaction Prototype/Packages/manifest.json
+Interaction Prototype/Packages/packages-lock.json
+Interaction Prototype/ProjectSettings/AudioManager.asset
+Interaction Prototype/ProjectSettings/ClusterInputManager.asset
+Interaction Prototype/ProjectSettings/DynamicsManager.asset
+Interaction Prototype/ProjectSettings/EditorBuildSettings.asset
+Interaction Prototype/ProjectSettings/EditorSettings.asset
+Interaction Prototype/ProjectSettings/GraphicsSettings.asset
+Interaction Prototype/ProjectSettings/InputManager.asset
+Interaction Prototype/ProjectSettings/NavMeshAreas.asset
+Interaction Prototype/ProjectSettings/PackageManagerSettings.asset
+Interaction Prototype/ProjectSettings/Physics2DSettings.asset
+Interaction Prototype/ProjectSettings/PresetManager.asset
+Interaction Prototype/ProjectSettings/ProjectSettings.asset
+Interaction Prototype/ProjectSettings/ProjectVersion.txt
+Interaction Prototype/ProjectSettings/QualitySettings.asset
+Interaction Prototype/ProjectSettings/TagManager.asset
+Interaction Prototype/ProjectSettings/TimeManager.asset
+Interaction Prototype/ProjectSettings/UnityConnectSettings.asset
+Interaction Prototype/ProjectSettings/URPProjectSettings.asset
+Interaction Prototype/ProjectSettings/VersionControlSettings.asset
+Interaction Prototype/ProjectSettings/VFXManager.asset
+Interaction Prototype/ProjectSettings/XRPackageSettings.asset
+Interaction Prototype/ProjectSettings/XRSettings.asset
+Interaction Prototype/UserSettings/EditorUserSettings.asset
+SoundScapeProject/
+Code Prototype/Logs/AssetImportWorker0.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe1.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe2.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe3.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe4.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe5.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe6.log
+Code Prototype/Logs/shadercompiler-UnityShaderCompiler.exe7.log
